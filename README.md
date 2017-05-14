@@ -16,6 +16,9 @@
 ### Jenis Navigasi :
 * Navigation Drawer
 
+### Library yang digunakan :
+* SQLite
+
 ### Deskripsi :
 * Untuk user yang termasuk pecinta film, pasti sering menghabiskan waktu untuk menonton film,
 dan pastinya akan membuat lelah jika harus bolak-balik melihat jadwal yang tayang di bioskop.<br>
@@ -39,9 +42,7 @@ film-film lama.
 * Data yang akurat
 * Mendapat informasi yang luas tentang film karena disajikan deskripsi film
  
-### Library yang digunakan :
-* Glide
-* Volley
+
 
 ### Screeshoot Aplikasi<br>
 ![capture](https://cloud.githubusercontent.com/assets/22131257/26034770/dc1fac4a-38eb-11e7-891d-37fe6fdbcd00.JPG)<br>
